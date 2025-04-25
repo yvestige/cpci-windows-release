@@ -1,0 +1,16 @@
+{
+    "keys": [
+        "isLVPCentralized",
+        "isPDPCentralizedHorizontal",
+        "isPDPCentralizedVertical",
+        "isDNSTA",
+        "previousCode"
+    ],
+    "values": [
+        "False",
+        "False",
+        "False",
+        "False",
+        ""
+    ]
+}
