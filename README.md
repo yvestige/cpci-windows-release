@@ -8,10 +8,27 @@ This is my Computer Science Special Problem (SP) application for the academic ye
 
 ## Table of Contents
 
+- [OS Versions](#os-versions)  
+- [Running Instructions](#how-to-run-the-files)  
 - [Interface Overview](#interface-overview)  
 - [Usage Instructions](#usage-instructions)
 - [Supported Code Formats](#supported-code-formats)  
 - [Format Restrictions](#format-restrictions) 
+
+
+
+## OS Versions
+
+The C-pointer Concept Illustrator has only been released for the Windows and the Linux operating systems. In case you have downloaded the wrong version for your operating system, you can download them here:
+
+- [⬇️ Download for Windows](https://github.com/yvestige/cpci-windows-release/archive/refs/heads/main.zip)
+- [⬇️ Download for Linux](https://github.com/yvestige/cpci-linux-release/archive/refs/heads/main.zip)
+
+
+
+## How to run the files
+
+Navigate to the "C Pointer Concept Illustrator" folder and simply run the file named `cpci.exe` (for Windows OS) or `cpci.x86_64` (for Linux OS). There is no installation required to run this program.
 
 
 
