@@ -30,6 +30,8 @@ The C-pointer Concept Illustrator has only been released for the Windows and the
 
 Navigate to the "C Pointer Concept Illustrator" folder and simply run the file named `cpci.exe` (for Windows OS) or `cpci.x86_64` (for Linux OS). There is no installation required to run this program.
 
+**<u>Note for Windows users</u>:** Opening the program for the first time may take a bit longer. This behavior is normal and expected because of how the Unity engine and the graphics drivers manage resources and caching in Windows. Subsequent launches will be faster once the initialization processes have been completed.
+
 
 
 ## Interface Overview
